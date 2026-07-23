@@ -1,0 +1,6 @@
+{
+  "name": "SweetSpot",
+  "description": "Artisanal Bakery & Confectionery app with custom product ordering, basket summary, and AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
